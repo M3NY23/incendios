@@ -5,15 +5,6 @@
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
       </li>
-      <li class="nav-item d-none d-sm-inline-block">
-        <a href="assets/index.php" class="nav-link">Inicio</a>
-      </li>
-      <li class="nav-item d-none d-sm-inline-block">
-        <a href="assets/index3.html" class="nav-link">Reportes</a>
-      </li>
-      <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">Contacto</a>
-      </li>
     </ul>
 
     <!-- Right navbar links -->
@@ -85,7 +76,7 @@
               <img src="assets/dist/img/mini-jan.jpg" alt="User Avatar" class="img-size-50 img-circle mr-3">
               <div class="media-body">
                 <h3 class="dropdown-item-title">
-                Janet Ochoa Gonzalez
+                  Janet Ochoa Gonzalez
                   <span class="float-right text-sm text-warning"><i class="fas fa-star"></i></span>
                 </h3>
                 <p class="text-sm">Los bomberos se dirigen a la zona</p>

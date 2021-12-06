@@ -36,7 +36,7 @@
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
           <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="/" class="nav-link">
               <i class="nav-icon fas fa-home"></i>
               <p>
                 Inicio
@@ -84,6 +84,14 @@
               </p>
             </a>
           </li>
+          <li class="nav-item">
+            <a href="protege" class="nav-link">
+              <i class="nav-icon fas fa-shield-alt"></i>
+              <p>
+                Protege
+              </p>
+            </a>
+          </li>
 
           <li class="nav-header">OPCIONES</li>
           <li class="nav-item">
@@ -119,7 +127,7 @@
                 <i class="fas fa-angle-left right"></i>
               </p>
             </a>
-            
+
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link">
@@ -237,8 +245,8 @@
               <p>Documentación</p>
             </a>
           </li>
-         
- 
+
+
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
